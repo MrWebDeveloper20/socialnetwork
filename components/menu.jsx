@@ -5,6 +5,7 @@ const Menu = () => {
   return (
     <div className=''>
       <Link href={'/'} className='font-serif '>Main</Link>
+      <Link href={'/contact'} className='font-serif '>Contact Us</Link>
     </div>
   )
 } 
