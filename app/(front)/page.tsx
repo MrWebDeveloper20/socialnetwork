@@ -13,7 +13,7 @@ export default function Home() {
         <Link href={'/DownloaderVideoInstagram'} className="tool1 font-serif text-lg font-bold flex justify-center items-center w-1/3 h-20 rounded-lg bg-blue-200">
             Inastagram Video & Reel Downloader
         </Link>
-        <Link href={'/DownloaderInstagram'} className="tool1 font-serif text-lg font-bold flex justify-center items-center w-1/3 h-20 rounded-lg bg-blue-200">
+        <Link href={'/DownloaderVideoYoutube'} className="tool1 font-serif text-lg font-bold flex justify-center items-center w-1/3 h-20 rounded-lg bg-blue-200">
           Youtube Vidoo Downloader
         </Link>
       </div> 
