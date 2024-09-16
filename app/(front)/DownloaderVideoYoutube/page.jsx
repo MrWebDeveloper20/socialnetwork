@@ -52,7 +52,7 @@ const Tools = () => {
         type="text"
         name="search"
         id="search"
-        placeholder='Insert Instagram Video or Reel link'
+        placeholder='Insert Youtube Video link'
       />
       
       {/* <a
