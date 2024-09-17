@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-between gap-5 w-full">
+    <main className="instagram flex flex-col items-center justify-between gap-5 w-full">
       
       <h1 className="font-serif font-bold text-2xl my-5">Social Network Media Downloader</h1>
       <div className="tools flex gap-3 w-5/6 ">
