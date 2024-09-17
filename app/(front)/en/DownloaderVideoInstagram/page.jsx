@@ -43,7 +43,7 @@ const Tools = () => {
   }
   return (
     <div className="p-3 my-2 flex flex-col justify-center items-center">
-      <h1 className='text-xl font-serif font-bold'>Download Instagram Video & Reel</h1>
+      <h1 className='text-xl font-serif font-bold'>Download Instagram Video</h1>
       <input
         onChange={() => {
           changeURL(event)
@@ -52,7 +52,7 @@ const Tools = () => {
         type="text"
         name="search"
         id="search"
-        placeholder='Insert Instagram Video or Reel link'
+        placeholder='Insert Instagram Video link'
       />
       
       {/* <a
